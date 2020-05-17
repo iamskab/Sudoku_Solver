@@ -1,4 +1,4 @@
-# SudokuSolver_ML
+# Sudoku_Solver
 
 Sourav karmakar<br>
 _Artificial Intelligence Application_
