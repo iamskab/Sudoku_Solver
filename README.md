@@ -9,13 +9,13 @@ _Artificial Intelligence Application_
 
  _Check Backtracking Algorithms here :  https://en.wikipedia.org/wiki/Backtracking_
 
-##1. Naive Backtracking Algorithm
+## 1. Naive Backtracking Algorithm
 
 Run Command:
 
     python sudoku.py <input file name>
 
-##2. Smart Backtracking Algorithm (MRV)
+## 2. Smart Backtracking Algorithm (MRV)
 
 Run Command:
 
