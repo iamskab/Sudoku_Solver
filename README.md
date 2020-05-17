@@ -1,7 +1,7 @@
 # SudokuSolver_ML
 
 Sourav karmakar<br>
-_Machine Learning Application_
+_Artificial Intelligence Application_
 
 <b>Required </b>: _Python Version 3.0+_
 
