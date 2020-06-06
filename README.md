@@ -1,6 +1,6 @@
 # Sudoku_Solver
 
-Sourav karmakar<br>
+Sourav Karmakar<br>
 _Artificial Intelligence Application_
 
 <b>Required </b>: _Python Version 3.0+_
